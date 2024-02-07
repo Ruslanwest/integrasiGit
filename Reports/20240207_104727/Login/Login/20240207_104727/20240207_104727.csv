@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Edge Chromium 121,,,07-02-2024 10:47:36,07-02-2024 10:47:56,20.043s,PASSED
+,,,,,,,
+Test Cases/Swag Labs/Login,Edge Chromium 121,,,07-02-2024 10:47:37,07-02-2024 10:47:56,19.317s,PASSED
+"openBrowser("""")",Edge Chromium 121,,,07-02-2024 10:47:38,07-02-2024 10:47:47,8.928s,PASSED
+"navigateToUrl(""https://parabank.parasoft.com/parabank/index.htm"")",Edge Chromium 121,,,07-02-2024 10:47:47,07-02-2024 10:47:51,4.221s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/input_Username_username""), ""ruslanwest"")",Edge Chromium 121,,,07-02-2024 10:47:51,07-02-2024 10:47:53,1.689s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/input_Password_password""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Edge Chromium 121,,,07-02-2024 10:47:53,07-02-2024 10:47:53,0.929s,PASSED
+"click(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/input_Password_button""))",Edge Chromium 121,,,07-02-2024 10:47:53,07-02-2024 10:47:56,2.589s,PASSED

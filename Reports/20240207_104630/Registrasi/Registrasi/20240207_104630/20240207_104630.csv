@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Registrasi,Edge Chromium 121,,,07-02-2024 10:46:40,07-02-2024 10:47:10,30.529s,PASSED
+,,,,,,,
+Test Cases/Swag Labs/Register,Edge Chromium 121,,,07-02-2024 10:46:40,07-02-2024 10:47:10,30.089s,PASSED
+"openBrowser("""")",Edge Chromium 121,,,07-02-2024 10:46:41,07-02-2024 10:46:48,7.302s,PASSED
+"navigateToUrl(""https://parabank.parasoft.com/parabank/index.htm"")",Edge Chromium 121,,,07-02-2024 10:46:48,07-02-2024 10:46:53,4.467s,PASSED
+"click(findTestObject(""Object Repository/Page_ParaBank  Welcome  Online Banking/a_Register""))",Edge Chromium 121,,,07-02-2024 10:46:53,07-02-2024 10:46:55,2.668s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_First Name_customer.firstName""), ""ruslan"")",Edge Chromium 121,,,07-02-2024 10:46:55,07-02-2024 10:46:57,1.623s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Last Name_customer.lastName""), ""Permana"")",Edge Chromium 121,,,07-02-2024 10:46:57,07-02-2024 10:46:59,1.793s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Address_customer.address.street""), ""Depok"")",Edge Chromium 121,,,07-02-2024 10:46:59,07-02-2024 10:47:00,0.999s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_City_customer.address.city""), ""Depok"")",Edge Chromium 121,,,07-02-2024 10:47:00,07-02-2024 10:47:01,0.956s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_State_customer.address.state""), ""Jawa Barat"")",Edge Chromium 121,,,07-02-2024 10:47:01,07-02-2024 10:47:02,0.951s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Zip Code_customer.address.zipCode""), ""16452"")",Edge Chromium 121,,,07-02-2024 10:47:02,07-02-2024 10:47:03,1.061s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Phone_customer.phoneNumber""), ""08546253442343"")",Edge Chromium 121,,,07-02-2024 10:47:03,07-02-2024 10:47:04,1.260s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_SSN_customer.ssn""), ""bebas"")",Edge Chromium 121,,,07-02-2024 10:47:04,07-02-2024 10:47:05,1.091s,PASSED
+"setText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Username_customer.username""), ""ruslanwest"")",Edge Chromium 121,,,07-02-2024 10:47:05,07-02-2024 10:47:06,1.089s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Password_customer.password""), ""GYDmRgS5yd5PL6pQTxDpCg=="")",Edge Chromium 121,,,07-02-2024 10:47:06,07-02-2024 10:47:07,0.871s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Password_customer.password""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Edge Chromium 121,,,07-02-2024 10:47:07,07-02-2024 10:47:08,0.675s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Confirm_repeatedPassword""), ""iFGeFYmXIrUhQZHvW7P22w=="")",Edge Chromium 121,,,07-02-2024 10:47:08,07-02-2024 10:47:09,0.795s,PASSED
+"click(findTestObject(""Object Repository/Page_ParaBank  Register for Free Online Acc_dbf84b/input_Confirm_button""))",Edge Chromium 121,,,07-02-2024 10:47:09,07-02-2024 10:47:10,1.820s,PASSED
